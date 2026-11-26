@@ -1,9 +1,9 @@
 {
-  "name": "Academic",
-  "short_name": "Academic",
+  "name": "Rosa Aguilar",
+  "short_name": "Rosa Aguilar",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#0f766e",
+  "background_color": "#0f766e",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
